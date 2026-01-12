@@ -14,14 +14,12 @@ Atualmente trabalho na **Ecolife Consultoria Ambiental LTDA**, focado em criar s
 ### desafio-logica  
 Projeto público em JavaScript com desafios de lógica.  
 **Linguagem:** JavaScript  
-Atualizado em Ago 29, 2025  
-🔗 https://github.com/Thiagomonteiro-Z/desafio-logica
+
 
 ### js-developer-pokedex  
 Fork do projeto de pokédex da Digital Innovation One.  
 **Linguagem:** CSS  
-Atualizado em Ago 16, 2024  
-🔗 https://github.com/Thiagomonteiro-Z/js-developer-pokedex
+
 
 ### Crud-Laravel  
 Primeiro trabalho que fiz em PHP usando o framework Laravel.  
@@ -31,15 +29,12 @@ Atualizado em Mai 26, 2023
 
 ### Alurabarbearia  
 Projeto em HTML, feito na plataforma Alura.  
-**Linguagem:** HTML  
-Atualizado em Set 10, 2022  
-🔗 https://github.com/Thiagomonteiro-Z/Alurabarbearia
+**Linguagem:** HTML   
 
 ### Aluraplus  
 Segundo projeto que aprendi com a plataforma Alura.  
 **Linguagem:** HTML  
-Atualizado em Set 10, 2022  
-🔗 https://github.com/Thiagomonteiro-Z/Aluraplus
+
 
 ---
 

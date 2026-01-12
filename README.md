@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=00008B&width=435&lines=Thiago+Monteiro+•+FullStack+Developer+%7C+Back-end" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=00008B&width=435&lines=Thiago+Monteiro+•+FullStack+Developer+%7C+Back+end" alt="Typing SVG" />
 
 ---
 

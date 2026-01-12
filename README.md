@@ -24,8 +24,7 @@ Fork do projeto de pokédex da Digital Innovation One.
 ### Crud-Laravel  
 Primeiro trabalho que fiz em PHP usando o framework Laravel.  
 **Linguagem:** PHP  
-Atualizado em Mai 26, 2023  
-🔗 https://github.com/Thiagomonteiro-Z/Crud-Laravel
+
 
 ### Alurabarbearia  
 Projeto em HTML, feito na plataforma Alura.  

@@ -65,7 +65,7 @@ Segundo projeto que aprendi com a plataforma Alura.
 ## Experiência Profissional
 
 **Ecolife Consultoria Ambiental LTDA** — *Analista de Desenvolvimento de Sistemas*  
-Abr/2024 – Atual | Remoto  
+Abr/2024 – Mar/2026 | Remoto  
 - Levantamento e análise de requisitos funcionais  
 - Desenvolvimento e testes (unitários e integrados)  
 - Documentação técnica e elaboração de diagramas UML  
